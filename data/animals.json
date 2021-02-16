@@ -1,5 +1,5 @@
 {
-  "animals": [
+  "animalsArray": [
     {
       "id": "0",
       "name": "Spindle",
@@ -101,15 +101,8 @@
       ]
     },
     {
-      "name": "Nate",
-      "species": "Giraffe",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "hungry",
-        "loving",
-        "goofy"
-      ],
-      "id": "10"
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
     }
   ]
 }
